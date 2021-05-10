@@ -1,0 +1,36 @@
+body, html {
+  height: 100%;
+  background-color: #dfe4ea !important;
+}
+
+
+
+.nummer {
+  max-width: 800px;
+  margin: auto;
+  padding: 10px;
+}
+
+
+
+.nav_wid {
+  max-width: 80%;
+  margin: auto;
+  background: white;
+  padding: 0px;
+}
+
+
+
+.footer {
+	background-color: #2f3542;
+	padding-bottom: 50px;
+}
+
+
+
+.fot-text {
+	color: white;
+	padding-top: 50px;
+	margin-bottom: -35px;
+}

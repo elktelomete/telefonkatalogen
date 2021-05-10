@@ -1,0 +1,63 @@
+body, html {
+  height: 100%;
+  background-color: #dfe4ea !important;
+}
+
+
+
+.bg-text {
+position: relative;
+display: flex;
+justify-content: center;
+
+}
+
+
+
+.bg {
+  
+  /* Full height */
+  height: 110%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  opacity: 85%;
+  
+}
+
+
+
+.text-block {
+  position: absolute;
+  background-color: #ffa502;
+  color: #57606f;
+  padding: 50px;
+  margin-top: 60px;
+  margin-left: -130px;
+  font-family: serif;
+  border-style: ridge;
+  border: 5px #2f3542;
+  box-shadow: 5px 5px #2f3542;
+  font-family: 'Heebo', sans-serif;
+
+}
+
+.nav_wid {
+  max-width: 80%;
+  margin: auto;
+  background: white;
+  padding: 0px;
+}
+
+.footer {
+	background-color: #2f3542;
+	padding-bottom: 50px;
+}
+
+.fot-text {
+	color: white;
+	padding-top: 50px;
+	margin-bottom: -35px;
+}
